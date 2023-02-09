@@ -1,0 +1,12 @@
+com.example.kart.app-jetified-annotation-experimental-1.1.0-0 C:\Users\josed\.gradle\caches\transforms-3\1437d136f5a011ae131b6288bdeac04a\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.kart.app-jetified-window-java-1.0.0-beta04-1 C:\Users\josed\.gradle\caches\transforms-3\a7f90b5364a3beb9da68c4b70e884fb4\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.kart.app-core-1.6.0-2 C:\Users\josed\.gradle\caches\transforms-3\ab28a6e8d0c676a767dac799ba6e2187\transformed\core-1.6.0\res
+com.example.kart.app-jetified-window-1.0.0-beta04-3 C:\Users\josed\.gradle\caches\transforms-3\e703d67c2d7e6c9296f7e63fbeb842b2\transformed\jetified-window-1.0.0-beta04\res
+com.example.kart.app-debug-4 C:\Users\josed\Desktop\KART\android\app\src\debug\res
+com.example.kart.app-main-5 C:\Users\josed\Desktop\KART\android\app\src\main\res
+com.example.kart.app-pngs-6 C:\Users\josed\Desktop\KART\build\app\generated\res\pngs\debug
+com.example.kart.app-resValues-7 C:\Users\josed\Desktop\KART\build\app\generated\res\resValues\debug
+com.example.kart.app-rs-8 C:\Users\josed\Desktop\KART\build\app\generated\res\rs\debug
+com.example.kart.app-mergeDebugResources-9 C:\Users\josed\Desktop\KART\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.kart.app-mergeDebugResources-10 C:\Users\josed\Desktop\KART\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.kart.app-merged_res-11 C:\Users\josed\Desktop\KART\build\app\intermediates\merged_res\debug

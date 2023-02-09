@@ -1,0 +1,1 @@
+C:\Users\josed\Desktop\KART\android\app\src\main\kotlin\com\example\kart\MainActivity.kt
